@@ -1,1 +1,1 @@
-# express-boilerplate
+# express-typescript-boilerplate
